@@ -1,0 +1,6 @@
+1.	https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast,
+	https://superuser.com/questions/1170062/whats-the-difference-between-a-superscalar-and-a-vector-processor,
+	https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists
+
+2.What is vectorized operations?
+3.How matrix and vector multiply?
